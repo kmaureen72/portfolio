@@ -39,3 +39,6 @@
   column-gap: 15px;
   margin: 20, 15, 20, 15px;
 }
+body {
+  background-color: aquamarine;
+}
