@@ -4,7 +4,7 @@
   justify-content: center;
   background-color: gray;
   position: relative;
-  float: right;
+  float: center;
 }
 .navbar ul {
   display: flex;
@@ -26,4 +26,14 @@
 img {
   width: 100px;
   border-radius: 50px;
+}
+.container img {
+  display: flex;
+  width: 400px;
+  height: 4oopx;
+}
+.content img {
+  display: flex;
+  width: 400px;
+  height: 400px;
 }
