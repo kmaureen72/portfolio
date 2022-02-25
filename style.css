@@ -23,8 +23,8 @@
   color: black;
   box-shadow: 0 0 8px white;
 }
-img {
-  width: 100px;
+.logo {
+  width: 50px;
   border-radius: 50px;
 }
 .container img {
@@ -32,8 +32,10 @@ img {
   width: 400px;
   height: 4oopx;
 }
-.content img {
-  display: flex;
-  width: 400px;
-  height: 400px;
+.column img {
+  width: 200px;
+  height: 200px;
+  column-count: 2;
+  column-gap: 15px;
+  margin: 20, 15, 20, 15px;
 }
