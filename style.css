@@ -58,6 +58,16 @@
   column-gap: 15px;
   background-color: blue;
 }
+footer {
+  background-color: white;
+  border: none;
+  color: white;
+  margin: 30px;
+  padding: 15px 30px;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+}
 body {
   background-color: rgb(223, 207, 223);
 }
