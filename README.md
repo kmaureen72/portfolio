@@ -8,6 +8,10 @@ Author: Maureen Kagochi
 
 This is a portfolio that displays the authors background, experience and some of the work done
 
+# view my work
+
+[my Github work](https://github.com/kmaureen72/portfolio.git)
+
 ---
 
 # Set up/ Installation required.
