@@ -17,6 +17,23 @@
         font-weight: 300px;
         display: flexbox;
       }
+      .gallery{
+        width: 400px;
+        height: 200px;
+        margin: 10px;
+      }
+      .gallery:hover{
+        background-color: aqua;
+      }
+
+      @media all and (max-width: 760px) {
+  .gallery:hover{
+    background-color: coral;
+  }
+  body {
+    background-color: ghostwhite;
+    }
+  }
     </style>
     <h1>Hello there</h1>
     <h3>I'm excited to introduce myself to you</h3>
@@ -53,6 +70,7 @@
       <h3>Tending to my kitchen garden</h3>
       <div class="gallery">
         <img src="/images/farm.jpeg" />
+        </div>
         <div class="desc">
           <p>The plant growing process always live me in awe</p>
         </div>
