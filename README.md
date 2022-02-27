@@ -11,6 +11,9 @@ This is a portfolio that displays the authors background, experience and some of
 # view my work
 
 [my Github work](https://github.com/kmaureen72/portfolio.git)
+: this is a portfolio website with a blend of personal and proffesional theme.
+
+[cooking blog](https://github.com/kmaureen72/Hello.git) : this is a webpage of a cooking blog with images for illustration, that explains different cooking methods.
 
 ---
 
