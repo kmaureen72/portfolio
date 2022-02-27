@@ -27,6 +27,21 @@
   width: 50px;
   border-radius: 50px;
 }
+.button {
+  background-color: blue;
+  border: none;
+  color: white;
+  margin: 30px;
+  padding: 15px 30px;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+}
+.button:hover {
+  background-color: white;
+  color: black;
+  box-shadow: 0 0 10px black;
+}
 .container img {
   display: flex;
   width: 400px;
